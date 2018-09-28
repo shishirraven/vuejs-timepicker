@@ -27,4 +27,4 @@ Use into your project as follows.
 ```
 
 Find complete example here. 
-https://github.com/shishirraven/vuejs-timepicker/blob/master/index.html
+https://github.com/shishirraven/vuejs-timepicker/blob/master/docs/index.html
