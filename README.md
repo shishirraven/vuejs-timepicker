@@ -15,7 +15,7 @@ https://momentjs.com/
 If you want to use the library through CDN the following is the link on CdnJS. 
 https://cdn.jsdelivr.net/gh/shishirraven/vuejs-timepicker@v1.0/assets/js/vue_timepicker.min.js
 
-Script tag. 
+CDN Script Code
 ```
 <script src="https://cdn.jsdelivr.net/gh/shishirraven/vuejs-timepicker@v1.0/assets/js/vue_timepicker.min.js"></script>
 ```
