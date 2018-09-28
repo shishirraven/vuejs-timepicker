@@ -9,7 +9,16 @@ Live Demo https://shishirraven.github.io/vuejs-timepicker/
 
 - Include moment.js into your project. 
 https://momentjs.com/
+
 - Download and include the VueJS timepicker into your project. https://github.com/shishirraven/vuejs-timepicker/blob/master/assets/js/vue_timepicker.js
+
+If you want to use the library through CDN the following is the link on CdnJS. 
+https://cdn.jsdelivr.net/gh/shishirraven/vuejs-timepicker@v1.0/assets/js/vue_timepicker.min.js
+
+Script tag. 
+```
+<script src="https://cdn.jsdelivr.net/gh/shishirraven/vuejs-timepicker@v1.0/assets/js/vue_timepicker.min.js"></script>
+```
 
 Use into your project as follows. 
 
