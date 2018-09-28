@@ -3,6 +3,8 @@ Simple TimePicker VueJS compoenent. Easy to theme and customize.
 
 ![Demo Image](img/Capture.PNG)
 
+Live Demo https://shishirraven.github.io/vuejs-timepicker/
+
 ## How to use. 
 
 - Include moment.js into your project. 
